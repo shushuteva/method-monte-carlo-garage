@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\capacityanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\capacityanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\pricingoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\pricingoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\garagesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\garagesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|c:\\users\\user1\\source\\repos\\montecarlomethodgarage\\montecarlomethodgarage\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEEA474-18C6-45AC-9013-FB63A92F7D41}|MonteCarloMethodGarage\\MonteCarloMethodGarage.csproj|solutionrelative:montecarlomethodgarage\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CapacityAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\CapacityAnalyzer.cs",
+              "RelativeDocumentMoniker": "MonteCarloMethodGarage\\CapacityAnalyzer.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\CapacityAnalyzer.cs",
+              "RelativeToolTip": "MonteCarloMethodGarage\\CapacityAnalyzer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:40:50.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingOptimizer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\PricingOptimizer.cs",
+              "RelativeDocumentMoniker": "MonteCarloMethodGarage\\PricingOptimizer.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\PricingOptimizer.cs",
+              "RelativeToolTip": "MonteCarloMethodGarage\\PricingOptimizer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:13:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GarageSimulation.cs",
               "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\GarageSimulation.cs",
               "RelativeDocumentMoniker": "MonteCarloMethodGarage\\GarageSimulation.cs",
               "ToolTip": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\GarageSimulation.cs",
               "RelativeToolTip": "MonteCarloMethodGarage\\GarageSimulation.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T11:16:42.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SimulationResult.cs",
               "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\SimulationResult.cs",
               "RelativeDocumentMoniker": "MonteCarloMethodGarage\\SimulationResult.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "MonteCarloMethodGarage\\SimulationResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T11:07:46.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T11:07:46.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\MonteCarloMethodGarage\\MonteCarloMethodGarage\\Program.cs",
               "RelativeDocumentMoniker": "MonteCarloMethodGarage\\Program.cs",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "MonteCarloMethodGarage\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T11:05:47.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T11:05:47.728Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonteCarloMethodGarage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5a84520c3a774632bb3913e1f4abbaeb694c6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd82281889916b51b8a77dc60fff25594774e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonteCarloMethodGarage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonteCarloMethodGarage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

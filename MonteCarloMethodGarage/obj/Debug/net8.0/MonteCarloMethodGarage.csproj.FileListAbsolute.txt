@@ -1,0 +1,15 @@
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\bin\Debug\net8.0\MonteCarloMethodGarage.exe
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\bin\Debug\net8.0\MonteCarloMethodGarage.deps.json
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\bin\Debug\net8.0\MonteCarloMethodGarage.runtimeconfig.json
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\bin\Debug\net8.0\MonteCarloMethodGarage.dll
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\bin\Debug\net8.0\MonteCarloMethodGarage.pdb
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.AssemblyInfoInputs.cache
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.AssemblyInfo.cs
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.sourcelink.json
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.dll
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\refint\MonteCarloMethodGarage.dll
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.pdb
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\MonteCarloMethodGarage.genruntimeconfig.cache
+C:\Users\user1\OneDrive\Работен плот\MonteCarloMethodGarage\MonteCarloMethodGarage\MonteCarloMethodGarage\obj\Debug\net8.0\ref\MonteCarloMethodGarage.dll
